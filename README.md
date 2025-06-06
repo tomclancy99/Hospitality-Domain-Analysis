@@ -37,4 +37,5 @@ Weekday bookings constitute ~63%, indicating business-travel dominance.
 Presidential rooms receive the best ratings (~3.69), while Premium needs attention.
 Weekend stays are rated slightly better than weekdays.
 Delhi leads in average rating despite lower booking volume.
-🔗 Important links
+### 🔗 Important links
+- [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNmU1Nzg0MmMtZDdhNi00MTdiLWJiMGUtMjc0ZTUxMWFkOTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
