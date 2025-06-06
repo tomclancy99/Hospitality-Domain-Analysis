@@ -22,9 +22,9 @@ Average Rating: Mean guest satisfaction score (1–5)
 Realization %: Effective utilization considering revenue potential
 Revenue per Booking: Derived metric to assess profitability
 ## 💻 Tech Stack
-PowerBI Desktop: To create visuals & Data Model from rew data.
-Power Query: For data preprocessing.
-DAX language: To create measures.
+- PowerBI Desktop: To create visuals & Data Model from rew data.
+- Power Query: For data preprocessing.
+- DAX language: To create measures.
 ## 📈 Insights
 ### 🔹 Revenue Analysis
 Mumbai leads in revenue but has lower occupancy compared to Hyderabad.
